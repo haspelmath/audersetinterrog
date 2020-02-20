@@ -1,0 +1,151 @@
+ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTimeBP,RMform,NCases,NClass,NNumber,INT,Origin,COMP,DEM,Genre,Notes,Thanks,Latitude,Longitude
+1,gheg1238,Gheg Albanian,Albanian,Gheg,,0,0,0,që,0,0,0,(related),KW or L,yes,no,spoken,që might also be a Latin loanword,,42.317,21.3837
+2,gheg1238,Gheg Albanian,Albanian,Gheg,,0,0,0,i cili ~ e cila,3,2,2,yes,KW,no,no,written,,,42.317,21.3837
+3,tosk1239,Tosk Albanian,Albanian,Tosk,,0,0,0,që,0,0,0,(related),KW or L,yes,no,spoken,që might also be a Latin loanword,,41,20
+4,tosk1239,Tosk Albanian,Albanian,Tosk,,0,0,0,i cili ~ e cila,3,2,2,yes,KW,no,no,written,,,41,20
+5,hitt1242,Hittite,Anatolian,,,3715,3215,3465,kuiš ~ kuit,5,2,2,yes,KW,yes,no,written,,"Michael Erlach, H. Craig Melchert",39.31,33.96
+6,cune1239,Cuneiform Luwian,Anatolian,Luvic,,3665,3215,3440,kuīš ~ kui,4,2,2,yes,KW,NA,no,written,"maybe also used as comp., but unknown so far","Michael Erlach, H. Craig Melchert",38.4,36.98
+7,hier1240,Hieroglyphic Luwian,Anatolian,Luvic,,3115,2715,2915,kwi:s ~ kwadi,4,2,2,yes,KW,NA,no,written,,"Michael Erlach, H. Craig Melchert",38.4,36.98
+8,clas1249,Classical Armenian,Armenian,,,1615,215,915,or,5,0,2,yes,NA,no,no,written,could be from YO or KW,,42,42
+9,nucl1235,Eastern Armenian,Armenian,Eastern-Western Armenian,,0,0,0,or,5,0,2,yes,NA,yes,no,both,could be from YO or KW,,40,45
+10,nucl1235,Eastern Armenian,Armenian,Eastern-Western Armenian,,0,0,0,inč,5,0,0,yes,NA,yes,no,both,"rare, could be from YO or KW",,40,45
+11,prus1238,Old Prussian,Balto-Slavic,Baltic,,646,315,481,kas,4,3,2,yes,KW+YO,NA,no,written,,,52.39,14.76
+12,prus1238,Old Prussian,Balto-Slavic,Baltic,,646,315,481,kurš,4,3,2,yes,NA,NA,no,written,,,52.39,14.76
+13,oldl1240,Old Lithuanian,Balto-Slavic,Baltic,Eastern Baltic,515,315,415,kas,7,0,0,yes,KW+YO,no,no,written,comp. is related though,Florian Sommer,56,25
+14,lith1251,Lithuanian,Balto-Slavic,Baltic,Eastern Baltic,0,0,0,kàs ,6,0,0,yes,KW+YO,no,no,both,,Florian Sommer,55.1429,23.9601
+15,lith1251,Lithuanian,Balto-Slavic,Baltic,Eastern Baltic,0,0,0,kurìs ~ kurì,6,2,2,yes,NA,no,no,both,,,55.1429,23.9601
+16,latv1249,Latvian,Balto-Slavic,Baltic,Eastern Baltic,0,0,0,kas,5,0,0,yes,KW+YO,no,no,both,comp. ka might be related,Florian Sommer,56.826108,24.309118
+17,latv1249,Latvian,Balto-Slavic,Baltic,Eastern Baltic,0,0,0,kurš ~ kurša,5,2,2,yes,NA,no,no,both,,,56.826108,24.309118
+18,oldr1238,Old East Slavic,Balto-Slavic,Slavic,East Slavic,1115,515,815,iže ~ yaže ~ yeže,6,3,3,no,YO,no,yes,written,"latter part is a particle, also used for the comp. ō-ze",,60,49
+19,russ1263,Russian,Balto-Slavic,Slavic,East Slavic,0,0,0,čto,0,0,0,yes,KW,yes,no,spoken,,,59,50
+20,russ1263,Russian,Balto-Slavic,Slavic,East Slavic,0,0,0,kotoryj ~ kotoraja ~ kotoroe ,5,3,2,yes,KW,no,no,both,,,59,50
+21,chur1257,Old Church Slavic,Balto-Slavic,Slavic,South Slavic,1215,915,1065,iže ~ ježe ~ jaže,6,3,3,no,YO,no,no,written,,,43.7171,22.8442
+22,bulg1262,Bulgarian,Balto-Slavic,Slavic,South Slavic,0,0,0,deto,0,0,0,related,KW,yes,no,spoken,,,43.3646,25.047
+23,bulg1262,Bulgarian,Balto-Slavic,Slavic,South Slavic,0,0,0,kojto ~ kojato ~ koeto,3,3,2,related,KW,no,no,both,,,43.3646,25.047
+24,sout1528,Serbian-Croatian-Bosnian,Balto-Slavic,Slavic,South Slavic,0,0,0,koji ~ koja ~ koje,4,3,2,yes,KW,no,no,spoken,,,44.3238,21.9192
+25,sout1528,Serbian-Croatian-Bosnian,Balto-Slavic,Slavic,South Slavic,0,0,0,što/šta ,0,0,0,yes,KW,yes,no,spoken,,,44.3238,21.9192
+26,slov1268,Slovenian,Balto-Slavic,Slavic,South Slavic,0,0,0,ki,0,0,0,no,NA,no,no,spoken,,,46.2543,14.7766
+27,slov1268,Slovenian,Balto-Slavic,Slavic,South Slavic,0,0,0,katěri ~ katéra ~ katére ,5,3,3,yes,KW,no,no,spoken,,,46.2543,14.7766
+28,czec1258,Czech,Balto-Slavic,Slavic,West Slavic,0,0,0,který ~ která ~ které,6,3,2,yes,KW,no,no,both,,,49.873398,15.10437
+29,czec1258,Czech,Balto-Slavic,Slavic,West Slavic,0,0,0,co,0,0,0,yes,KW,yes,no,spoken,,,49.873398,15.10437
+30,czec1258,Czech,Balto-Slavic,Slavic,West Slavic,0,0,0,jenž ~ jenže,6,3,2,no,YO,no,no,written,,,49.873398,15.10437
+31,poli1260,Polish,Balto-Slavic,Slavic,West Slavic,0,0,0,który ~ która ~ które,4,3,2,yes,KW,no,no,both,,,51.8439,18.6255
+32,poli1260,Polish,Balto-Slavic,Slavic,West Slavic,0,0,0,jaki ~ jaka ~ jakie,4,3,2,yes,NA,no,no,both,,,51.84,18.63
+33,poli1260,Polish,Balto-Slavic,Slavic,West Slavic,0,0,0,co,0,0,0,yes,KW,no,no,spoken,,,51.8439,18.6255
+34,uppe1395,Upper Sorbian,Balto-Slavic,Slavic,West Slavic,0,0,0,štož ~ štóž,4,2,2,yes,KW,no,no,both,,,51.2403,14.4098
+35,uppe1395,Upper Sorbian,Balto-Slavic,Slavic,West Slavic,0,0,0,kotryž,4,3,2,yes,KW,no,no,both,,,51.2403,14.4098
+36,tran1282,Transalpine Gaulish,Celtic,,,2315,1515,1915,io,0,0,0,no,YO,NA,NA,written,interrogatives are not attested but they never go back to yo in IE,,,
+37,wels1247,Welsh,Celtic,Insular Celtic,Brythonic,0,0,0,a ~ y,2,0,0,no,NA,no,no,spoken,special verb inflection,,52,-4
+38,wels1247,Welsh,Celtic,Insular Celtic,Brythonic,0,0,0,lle ~ pryd ~ pam,0,0,0,yes,NA,no,no,spoken,"expressions of time, space, reason",,52,-4
+39,oldi1245,Old Irish,Celtic,Insular Celtic,Goidelic,1515,1015,1265,-,0,0,0,no,NA,NA,no,written,,,54,-8
+40,iris1253,Irish,Celtic,Insular Celtic,Goidelic,0,0,0,a,0,0,0,no,NA,no,no,spoken,,,53.2186,-7.61509
+41,goth1244,Gothic,Germanic,East Germanic,,1815,1015,1415,izei ~ sei,0,0,0,no,NA,no,no,written,this is underlyingly a personal pronoun with -ei,,46.9304,29.9786
+42,goth1244,Gothic,Germanic,East Germanic,,1815,1015,1415,ei ~ þei,0,0,0,no,NA,yes,no,written,this is the complementizer,,46.9304,29.9786
+43,goth1244,Gothic,Germanic,East Germanic,,1815,1015,1415,sa-ei ~ þat-ei ~ sō-ei,4,3,2,no,TO,no,yes,written,this is the demonstrative plus a complementizer,,46.9304,29.9786
+44,oldn1244,Old Norse,Germanic,North Germanic,West Scandinavian,1315,715,1015,er ~ sem,0,0,0,no,ONE,no,no,written,,,55.53,11.78
+45,swed1254,Swedish,Germanic,North Germanic,North Scandinavian,0,0,0,som,0,0,0,no,ONE,no,no,spoken,,,59.800634,17.389526
+46,swed1254,Swedish,Germanic,North Germanic,North Scandinavian,0,0,0,vars ~ vilkas,0,0,2,yes,KW,no,no,written,,,59.800634,17.389526
+47,swed1254,Swedish,Germanic,North Germanic,North Scandinavian,0,0,0,vilken ~ vilket,0,0,2,yes,KW,no,no,written,,,59.800634,17.389526
+48,norw1258,Norwegian,Germanic,North Germanic,West Scandinavian,0,0,0,som,0,0,0,no,ONE,no,no,spoken,,,59.92,10.71
+49,norw1258,Norwegian,Germanic,North Germanic,West Scandinavian,0,0,0,hvem ~ hva ~ hvilket,0,2,0,yes,KW,no,no,written,,,59.92,10.71
+50,afri1274,Afrikaans,Germanic,West Germanic,Franconian,0,0,0,wat ~ wie,0,0,0,yes,KW,no,no,both,,,-22,30
+51,afri1274,Afrikaans,Germanic,West Germanic,Franconian,0,0,0,waar,0,0,0,yes,KW,no,no,both,with non-human antecedents and prepositions,,-22,30
+52,afri1274,Afrikaans,Germanic,West Germanic,Franconian,0,0,0,welke,0,0,0,yes,KW,no,no,written,,,-22,30
+53,dutc1256,Dutch,Germanic,West Germanic,Franconian,0,0,0,die ~ dat,0,2,0,no,TO,no,yes,spoken,,,52,5
+54,dutc1256,Dutch,Germanic,West Germanic,Franconian,0,0,0,wie,0,0,0,yes,KW,no,no,spoken,only with prepositions,,52,5
+55,luxe1241,Luxembourgish,Germanic,West Germanic,Franconian,0,0,0,wou ~ wat,0,0,0,yes,KW,no,no,spoken,,,49.6839,6.14931
+56,luxe1241,Luxembourgish,Germanic,West Germanic,Franconian,0,0,0,deen ~ dat ~ déi,3,3,2,no,TO,yes,yes,spoken,,,49.6839,6.14931
+57,stan1295,German,Germanic,West Germanic,Franconian,0,0,0,der ~ die ~ das,4,3,2,no,TO,no,yes,both,,,48.649,12.4676
+58,stan1295,German,Germanic,West Germanic,Franconian,0,0,0,wo ~ wie ~ warum,0,0,0,no,KW,no,no,both,,,48.649,12.4676
+59,oldh1241,Old High German,Germanic,West Germanic,High German,1315,965,1140,der ~ daz ~ diu,4,3,2,no,TO,yes,yes,written,,,46.649,12.4676
+60,midd1343,Middle High German,Germanic,West Germanic,High German,965,665,815,der ~ diu ~ daz,4,3,2,no,TO,yes,no,written,only n used as COMP,,47.649,11.4676
+61,midd1343,Middle High German,Germanic,West Germanic,High German,965,665,815,dâ ~ dar ~ dannen,0,0,0,no,NA,no,no,written,local adverbs,,47.649,11.4676
+62,midd1343,Middle High German,Germanic,West Germanic,High German,965,665,815,so ~ und,0,0,0,no,NA,no,no,written,local adverbs,,47.649,11.4676
+63,swis1247,Swiss German,Germanic,West Germanic,High German,0,0,0,wo,0,0,0,yes,KW,no,yes,spoken,,,47.0516,8.46419
+64,west2361,Western Yiddish,Germanic,West Germanic,High German,0,0,0,vos,0,0,0,yes,KW,no,no,spoken,,,51.6889,12.2601
+65,west2361,Western Yiddish,Germanic,West Germanic,High German,0,0,0,velken,3,3,2,yes,KW,no,no,written,"minor strategy, more literary",,51.6889,12.2601
+66,olds1250,Old Saxon,Germanic,West Germanic,North Sea Germanic,1515,815,1165,the ~ thiu ~ that,5,3,2,no,TO,yes,yes,written,,,52.69,10.99
+67,olde1238,Old English,Germanic,West Germanic,North Sea Germanic,1365,715,1040,se ~ þæt ~ seo,4,3,2,no,TO,no,yes,written,,,54.5,-0.5
+68,olde1238,Old English,Germanic,West Germanic,North Sea Germanic,1365,715,1040,þe,0,0,0,no,TO,yes,no,written,,,54.5,-0.5
+69,midd1317,Middle English,Germanic,West Germanic,North Sea Germanic,865,515,690,wich þat ~ who þat,0,0,0,yes,KW+TO,no,no,written,,,54,-1.5
+70,midd1317,Middle English,Germanic,West Germanic,North Sea Germanic,865,515,690,þat,0,0,0,no,TO,yes,no,written,"rare in ME, probably Latin and maybe French influence",,54,-1.5
+71,stan1293,English,Germanic,West Germanic,North Sea Germanic,0,0,0,that,0,0,0,no,TO,yes,yes,both,,,53,-1
+72,stan1293,English,Germanic,West Germanic,North Sea Germanic,0,0,0,who ~ what ~ which,0,2,0,yes,KW,no,no,both,inflection with prepositions,,53,-1
+73,oldf1241,Old Frisian,Germanic,West Germanic,North Sea Germanic,1215,415,815,thī ~ thiu ~ thet,4,3,2,no,TO,yes,yes,written,,,53.41,7.97
+74,oldf1241,Old Frisian,Germanic,West Germanic,North Sea Germanic,1215,415,815,thēr,0,0,0,no,TO,yes,no,written,,,53.41,7.97
+75,east2288,Eastern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,däi,0,0,0,no,TO,no,yes,spoken,,,52.9713,7.73549
+76,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,dit,0,0,0,no,TO,no,yes,spoken,"there used to be a functional distinction, but this is no longer the case",,54.6409,8.58489
+77,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,wat,0,0,0,yes,KW,no,no,spoken,"there used to be a functional distinction, but this is no longer the case",,54.6409,8.58489
+78,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,hur,0,0,0,yes,KW,no,no,spoken,,,54.6409,8.58489
+79,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,diar,0,0,0,no,NA,no,no,spoken,,,54.6409,8.58489
+80,anci1242,Ancient Greek,Greek,East Greek,,2515,2315,2415,hos ~ hē ~ ho,4,3,2,no,TO,no,no,written,the comp. is based on the indef.rel. n ,,39.8155,21.9129
+81,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,tís ~ tí,3,2,2,yes,KW,no,no,written,examples of full clauses missing,,41,23
+82,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,ton ~ tēn ~ to,2,3,2,no,TO,no,no,written,examples of full clauses missing,,41,23
+83,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,hostis ~ hētis ~ hoti,3,3,2,related,YO+KW,yes,no,written,,,41,23
+84,mode1248,Greek,Greek,East Greek,Koineic Greek,0,0,0,pou,0,0,0,yes,KW,yes,no,both,,,42.3224,24.8699
+85,mode1248,Greek,Greek,East Greek,Koineic Greek,0,0,0,o opoios ~ i opoia ~ to opoio,3,3,2,related,TO+KW,yes,no,written,,,42.3224,24.8699
+86,sans1269,Sanskrit,Indo-Iranian,Indic,,3015,2615,2815,yáḥ ~ yā́ ~ yát,7,3,3,no,YO,no,no,written,,,20,77
+87,pali1273,Pāli,Indo-Iranian,Indic,Bihari,2515,2115,2315,yo ~ ya ~ yaṃ,6,3,2,no,YO,NA,no,written,"no examples of full clauses, nothing about complementizer",,24.5271,82.251
+88,mait1250,Maithili,Indo-Iranian,Indic,Bihari,0,0,0,je,5,3,2,no,YO,yes,no,spoken,also a comp. that is =INT,,26.3817,86.2211
+89,doma1258,Domari,Indo-Iranian,Indic,Central Zone,0,0,0,illi,0,0,0,no,L,no,no,spoken,"RC and CC structure borrowed from Arabic, preposed",,32,35
+90,hind1269,Hindi,Indo-Iranian,Indic,Central Zone,0,0,0,jo,3,0,2,no,YO,no,no,spoken,the comp. ki seems related to the interrogative pron.,,25,77
+91,vlax1238,Vlax Romani,Indo-Iranian,Indic,Central Zone,0,0,0,kaj,0,0,0,yes,KW,yes,no,spoken,the who/what are inflected!; comp. = when I think,,46.8191,14.8451
+92,midd1350,Ghāndārī,Indo-Iranian,Indic,Central Zone,2315,1515,1915,yo,7,2,2,no,YO,,,written,,,34.1481,71.7919
+93,sinh1246,Sinhala,Indo-Iranian,Indic,Divehi-Sinhala,0,0,0,NA,0,0,0,no,NA,yes,no,spoken,these are non-finite forms!,,8,81
+94,beng1280,Bengali,Indo-Iranian,Indic,Eastern Zone,0,0,0,ye(-) ~ ya(-),3,2,2,no,YO,yes,no,spoken,"meanings like 'where', 'when' are formed by adding recurring elements to the forms given here",,24,90
+95,oriy1255,Oriya,Indo-Iranian,Indic,Eastern Zone,0,0,0,je ~ jaha,5,2,2,no,YO,yes,no,spoken,,,20.15,85.5
+96,nepa1254,Nepali,Indo-Iranian,Indic,Northern Zone,0,0,0,jo ~ je,2,2,2,no,YO,NA,no,written,participles default,,27.705,85.33
+97,dame1241,Dameli,Indo-Iranian,Indic,Northwestern Zone,0,0,0,ki ~ kyaa,0,0,0,yes,KW,no,no,spoken,also non-finite RC and comp.,,35.299,71.6806
+98,sind1272,Sindhi,Indo-Iranian,Indic,Northwestern Zone,0,0,0,jo ~ jā,2,2,2,no,YO,NA,no,spoken,comp. situation probably similar to Kashmiri,,26,69
+99,kash1277,Kashmiri,Indo-Iranian,Indic,Northwestern Zone,0,0,0,yus ~ yɔsɪ ~ yi,4,3,2,no,YO,no,no,spoken,the int. pron. can be used in comp. clauses,,34.166825,74.330455
+100,oldm1244,Old Marathi,Indo-Iranian,Indic,Southern Zone,1015,715,865,yo ~ ye ~ yeṃ,4,3,2,no,YO,NA,no,written,"no examples of full clauses, nothing about complementizer",,15.43,74.02
+101,mara1378,Marathi,Indo-Iranian,Indic,Southern Zone,0,0,0,jo ~ ji ~ je,2,3,2,no,YO,no,no,spoken,comp. is ki,,17.9344,76.6665
+102,goan1235,Goan Konkani,Indo-Iranian,Indic,Southern Zone,0,0,0,jo,NA,NA,NA,no,YO,no,no,spoken,,,15.27,74.21
+103,goan1235,Goan Konkani,Indo-Iranian,Indic,Southern Zone,0,0,0,khanco,NA,NA,NA,yes,KW,no,no,spoken,,,15.27,74.21
+104,aves1237,Avestan,Indo-Iranian,Iranian,,3215,2815,3015,hiiat̰ ~ yat̰,7,3,2,no,YO,no,no,written,,,31.541,53.633
+105,wakh1245,Wakhi,Indo-Iranian,Iranian,,0,0,0,tsə(y),0,0,0,related,NA,yes,no,spoken,,,37.1768,73.9777
+106,wakh1245,Wakhi,Indo-Iranian,Iranian,,0,0,0,ki,0,0,0,related,L,yes,no,spoken,borrowed from Tajik,,37.1768,73.9777
+107,part1239,Parthian,Indo-Iranian,Iranian,Central Iranian,2260,1790,2025,kē,0,0,0,yes,KW,no,no,written,,not first,34.81,48.51
+108,khwa1238,Khwarezmian,Indo-Iranian,Iranian,Central Iranian,2515,815,1665,ki ~ ci,0,2,0,yes,KW,no,no,written,interrogatives add the question marker a-,nominalization,36.24,58.79
+109,sogd1245,Sogdian,Indo-Iranian,Iranian,Central Iranian,2115,1015,1565,ke,3,2,0,yes,KW,no,no,written,sort of mirror image of correlatives,,40.29,70.48
+110,sogd1245,Sogdian,Indo-Iranian,Iranian,Central Iranian,2115,1015,1565,ču,0,0,0,yes,KW,no,no,written,sort of mirror image of correlatives,,40.29,70.48
+111,nort2641,Northern Kurdish,Indo-Iranian,Iranian,Central Iranian,0,0,0,ku,0,0,0,yes,KW,yes,no,spoken,,,35.6539,45.8077
+112,diml1238,Dimli,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki,2,0,0,related,KW,yes,no,spoken,,,38.6147,39.6388
+113,gila1241,Gilaki,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki ~ či,2,2,0,yes,KW,yes,no,spoken,,,37.1344,49.8359
+114,osse1243,Ossetic,Indo-Iranian,Iranian,Central Iranian,0,0,0,či/cy ~ ka/ci,8,2,2,yes,KW,no,no,spoken,compl. is only one of several strategies,,41.7882,43.2674
+115,balo1260,Balochi,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki,0,0,0,(related),KW,yes,no,spoken,interrogatives are not the same but clearly related,,26,64
+116,taly1247,Talysh,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki ~ ke,0,0,0,yes,KW,yes,no,spoken,"the human interrog. is identical, so might this be pattern borrowing?",,38.4552,48.6349
+117,para1299,Parachi,Indo-Iranian,Iranian,Ormuri-Parachi,0,0,0,če,0,0,0,yes,KW,yes,no,spoken,,,36.0432,70.8805
+118,nucl1276,Pashto,Indo-Iranian,Iranian,Pashto,0,0,0,čǝ,0,0,0,related,KW,yes,no,spoken,,,34,71.33
+119,khot1251,Khotanese,Indo-Iranian,Iranian,Sakha,2115,1015,1565,kye/i ~ ce/i ~ cu,2,2,0,yes,KW,NA,no,written,no information on complementation,gap (with comp),41.95,83.48
+120,oldp1254,Old Persian,Indo-Iranian,Iranian,Southwestern Iranian,2615,2315,2465,haya ~ hayā ~ taya,4,3,2,no,TO+YO,yes,no,written,,,29.56,52.53
+121,pahl1241,Middle Persian,Indo-Iranian,Iranian,Southwestern Iranian,2215,1115,1665,kē ~ čē,0,2,0,yes,KW,no,no,written,,,28.6593,55.1586
+122,west2369,Farsi,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ke,0,0,0,yes,KW,yes,no,spoken,,,28.6593,55.1586
+123,taji1245,Tajik,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ki,0,0,0,yes,KW,yes,no,spoken,,,38.8213,68.5549
+124,sout2645,Angali (SW Fars),Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ke,0,0,0,yes,KW,yes,no,spoken,only the human form overlaps in one variant,,29.746,52.267
+125,jude1256,Judeo-Tat,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ho ,0,0,0,no,NA,yes,no,written,,,42.068306,48.264749
+126,waig1243,Waigali,Indo-Iranian,Nuristani,,0,0,0,sta,0,0,0,no,NA,no,no,both,appears with all postnominal N modifiers,,,
+127,umbr1253,Umbrian,Italic,Sabellic,,2715,1915,2315,poe ~ NA ~ NA,5,3,2,related,KW,NA,no,written,,,43.35,12.572
+128,osca1245,Oscan,Italic,Sabellic,,2515,1915,2215,pui ~ púd ~ paí,5,3,2,related,KW,NA,no,written,,,41.486,14.47
+129,lati1261,Classical Latin,Italic,Latino-Faliscan,,2090,1715,1903,quī ~ quae ~ quod,5,3,2,related,KW,no,no,written,,,41.9026,12.4502
+130,oldp1253,Old Occitan,Italic,Latino-Faliscan,Western Romance,1325,615,970,qui ~ que,2,2,0,yes,KW,yes,no,written,,,43.47,3.39
+131,olds1249,Old Spanish,Italic,Latino-Faliscan,Western Romance,1115,515,815,qui ~ quien ~ que,0,2,0,yes,KW,yes,no,written,"no ex. of full clauses, not entirely sure about comp",,39.4414,-1.5
+132,olds1249,Old Spanish,Italic,Latino-Faliscan,Western Romance,1115,515,815,cuyo ~ cuya,0,2,0,yes,KW,yes,no,written,,,39.4414,-1.5
+133,ital1282,Italian,Italic,Latino-Faliscan,Western Romance,0,0,0,che,2,0,0,yes,KW,yes,no,spoken,,,43.0464,12.6489
+134,ital1282,Italian,Italic,Latino-Faliscan,Western Romance,0,0,0,quale,0,0,2,yes,KW,no,no,both,,,43.0464,12.6489
+135,vene1258,Venetian,Italic,Latino-Faliscan,Western Romance,0,0,0,che,0,0,0,yes,KW,yes,no,spoken,,,45.503581,12.214167
+136,stan1290,French,Italic,Latino-Faliscan,Western Romance,0,0,0,qui,2,0,0,yes,KW,yes,no,both,,,48,2
+137,stan1290,French,Italic,Latino-Faliscan,Western Romance,0,0,0,dont,0,0,0,no,NA,no,no,both,,,48,2
+138,occi1249,Occitan,Italic,Latino-Faliscan,Western Romance,0,0,0,que,0,0,0,yes,KW,yes,no,spoken,,,44.1,4.5
+139,stan1288,Spanish,Italic,Latino-Faliscan,Western Romance,0,0,0,que ~ quien,0,2,0,yes,KW,yes,no,spoken,,,40.4414,-1.11788
+140,stan1288,Spanish,Italic,Latino-Faliscan,Western Romance,0,0,0,cuyo ~ cuya,0,2,2,related,KW,no,no,written,,,40.4414,-1.11788
+141,port1283,Portuguese,Italic,Latino-Faliscan,Western Romance,0,0,0,que ~ quem,2,0,0,yes,KW,yes,no,spoken,,,39.91,-8.1
+142,port1283,Portuguese,Italic,Latino-Faliscan,Western Romance,0,0,0,cujo ~ cuja,0,2,2,related,KW,no,no,both,,,39.91,-8.1
+143,roma1327,Romanian,Italic,Latino-Faliscan,Eastern Romance,0,0,0,care,2,2,2,yes,KW,no,no,both,,,46.39,24.23
+144,roma1327,Romanian,Italic,Latino-Faliscan,Eastern Romance,0,0,0,de,0,0,0,no,NA,no,no,spoken,,,46.39,24.23
+145,camp1261,Campidanese Sardinian,Italic,Latino-Faliscan,Southern Romance,0,0,0,chi,0,0,0,yes,KW,yes,no,spoken,,,39.0566,9.03935
+146,tokh1242,Tocharian A,Tocharian,,,1415,1115,1265,kus=ne,3,0,2,yes,KW+TO,no,no,written,,,42.3,86.34
+147,tokh1242,Tocharian A,Tocharian,,,1415,1115,1265,äntsaṃ,3,3,2,yes,NA,no,no,written,,,42.3,86.34
+148,tokh1243,Tocharian B,Tocharian,,,1415,1115,1265,kuse,3,0,0,yes,KW+TO,no,no,written,,,41.09,80.45
+149,tokh1243,Tocharian B,Tocharian,,,1415,1115,1265,intsu,3,3,2,yes,NA,no,no,written,,,41.09,80.45
+150,tokh1243,Tocharian B,Tocharian,,,1415,1115,1265,mäksu,3,3,2,yes,NA,no,no,written,,,41.09,80.45
