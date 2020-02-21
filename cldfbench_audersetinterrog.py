@@ -9,9 +9,9 @@ from clldutils.misc import slug
 # TODO: Link to Appendix PDF for description
 
 PARAMETERS = {
-    "NCases": "number of case forms (values 0-7)",
-    "NClass": "number of gender or inflectional classes (values 0-3)",
-    "NNumber": "number of number distinctions (values 0-3)",
+    "NCases": "number of case forms (values 0-8) or NA",
+    "NClass": "number of gender or inflectional classes (values 0-3) or NA",
+    "NNumber": "number of number distinctions (values 0-3) or NA",
     "INT": "is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA",
     "Origin": "what is the source of the marker in PIE?",
     "COMP": "is the relative marker also used as a complementizer? - values: yes, no, NA",

@@ -1,7 +1,7 @@
 ID,Name,Description
-ncases,NCases,number of case forms (values 0-7)
-nclass,NClass,number of gender or inflectional classes (values 0-3)
-nnumber,NNumber,number of number distinctions (values 0-3)
+ncases,NCases,number of case forms (values 0-8) or NA
+nclass,NClass,number of gender or inflectional classes (values 0-3) or NA
+nnumber,NNumber,number of number distinctions (values 0-3) or NA
 int,INT,"is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA"
 origin,Origin,what is the source of the marker in PIE?
 comp,COMP,"is the relative marker also used as a complementizer? - values: yes, no, NA"
