@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/audersetinterrog",
-            "dc:created": "0b22e1d"
+            "dc:created": "7d5c51d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -40,7 +40,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 1022,
+            "dc:extent": 1029,
             "tableSchema": {
                 "columns": [
                     {
@@ -211,6 +211,18 @@
                     {
                         "datatype": "string",
                         "name": "Subsubbranch"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "EarlyTimeBP"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LateTimeBP"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "AvTimeBP"
                     }
                 ],
                 "primaryKey": [

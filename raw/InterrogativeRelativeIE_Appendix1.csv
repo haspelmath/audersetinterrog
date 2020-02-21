@@ -1,7 +1,7 @@
 ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTimeBP,RMform,NCases,NClass,NNumber,INT,Origin,COMP,DEM,Genre,Notes,Thanks,Latitude,Longitude
-1,gheg1238,Gheg Albanian,Albanian,Gheg,,0,0,0,që,0,0,0,(related),KW or L,yes,no,spoken,që might also be a Latin loanword,,42.317,21.3837
+1,gheg1238,Gheg Albanian,Albanian,Gheg,,0,0,0,që,0,0,0,relatedmaybe,KW or L,yes,no,spoken,që might also be a Latin loanword,,42.317,21.3837
 2,gheg1238,Gheg Albanian,Albanian,Gheg,,0,0,0,i cili ~ e cila,3,2,2,yes,KW,no,no,written,,,42.317,21.3837
-3,tosk1239,Tosk Albanian,Albanian,Tosk,,0,0,0,që,0,0,0,(related),KW or L,yes,no,spoken,që might also be a Latin loanword,,41,20
+3,tosk1239,Tosk Albanian,Albanian,Tosk,,0,0,0,që,0,0,0,relatedmaybe,KW or L,yes,no,spoken,që might also be a Latin loanword,,41,20
 4,tosk1239,Tosk Albanian,Albanian,Tosk,,0,0,0,i cili ~ e cila,3,2,2,yes,KW,no,no,written,,,41,20
 5,hitt1242,Hittite,Anatolian,,,3715,3215,3465,kuiš ~ kuit,5,2,2,yes,KW,yes,no,written,,"Michael Erlach, H. Craig Melchert",39.31,33.96
 6,cune1239,Cuneiform Luwian,Anatolian,Luvic,,3665,3215,3440,kuīš ~ kui,4,2,2,yes,KW,NA,no,written,"maybe also used as comp., but unknown so far","Michael Erlach, H. Craig Melchert",38.4,36.98
@@ -90,7 +90,7 @@ ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTi
 89,doma1258,Domari,Indo-Iranian,Indic,Central Zone,0,0,0,illi,0,0,0,no,L,no,no,spoken,"RC and CC structure borrowed from Arabic, preposed",,32,35
 90,hind1269,Hindi,Indo-Iranian,Indic,Central Zone,0,0,0,jo,3,0,2,no,YO,no,no,spoken,the comp. ki seems related to the interrogative pron.,,25,77
 91,vlax1238,Vlax Romani,Indo-Iranian,Indic,Central Zone,0,0,0,kaj,0,0,0,yes,KW,yes,no,spoken,the who/what are inflected!; comp. = when I think,,46.8191,14.8451
-92,midd1350,Ghāndārī,Indo-Iranian,Indic,Central Zone,2315,1515,1915,yo,7,2,2,no,YO,,,written,,,34.1481,71.7919
+92,midd1350,Ghāndārī,Indo-Iranian,Indic,Central Zone,2315,1515,1915,yo,7,2,2,no,YO,NA,no,written,,,34.1481,71.7919
 93,sinh1246,Sinhala,Indo-Iranian,Indic,Divehi-Sinhala,0,0,0,NA,0,0,0,no,NA,yes,no,spoken,these are non-finite forms!,,8,81
 94,beng1280,Bengali,Indo-Iranian,Indic,Eastern Zone,0,0,0,ye(-) ~ ya(-),3,2,2,no,YO,yes,no,spoken,"meanings like 'where', 'when' are formed by adding recurring elements to the forms given here",,24,90
 95,oriy1255,Oriya,Indo-Iranian,Indic,Eastern Zone,0,0,0,je ~ jaha,5,2,2,no,YO,yes,no,spoken,,,20.15,85.5
@@ -113,7 +113,7 @@ ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTi
 112,diml1238,Dimli,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki,2,0,0,related,KW,yes,no,spoken,,,38.6147,39.6388
 113,gila1241,Gilaki,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki ~ či,2,2,0,yes,KW,yes,no,spoken,,,37.1344,49.8359
 114,osse1243,Ossetic,Indo-Iranian,Iranian,Central Iranian,0,0,0,či/cy ~ ka/ci,8,2,2,yes,KW,no,no,spoken,compl. is only one of several strategies,,41.7882,43.2674
-115,balo1260,Balochi,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki,0,0,0,(related),KW,yes,no,spoken,interrogatives are not the same but clearly related,,26,64
+115,balo1260,Balochi,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki,0,0,0,relatedmaybe,KW,yes,no,spoken,interrogatives are not the same but clearly related,,26,64
 116,taly1247,Talysh,Indo-Iranian,Iranian,Central Iranian,0,0,0,ki ~ ke,0,0,0,yes,KW,yes,no,spoken,"the human interrog. is identical, so might this be pattern borrowing?",,38.4552,48.6349
 117,para1299,Parachi,Indo-Iranian,Iranian,Ormuri-Parachi,0,0,0,če,0,0,0,yes,KW,yes,no,spoken,,,36.0432,70.8805
 118,nucl1276,Pashto,Indo-Iranian,Iranian,Pashto,0,0,0,čǝ,0,0,0,related,KW,yes,no,spoken,,,34,71.33
