@@ -4,7 +4,6 @@ import pathlib
 
 from cldfbench import CLDFSpec
 from cldfbench import Dataset as BaseDataset
-
 from clldutils.misc import slug
 
 # TODO: Link to Appendix PDF for description
