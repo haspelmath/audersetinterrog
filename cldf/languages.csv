@@ -1,0 +1,99 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Branch,Subbranch,Subsubbranch
+gheg1238,Gheg Albanian,,42.317,21.3837,gheg1238,,Albanian,Gheg,
+tosk1239,Tosk Albanian,,41,20,tosk1239,,Albanian,Tosk,
+hitt1242,Hittite,,39.31,33.96,hitt1242,,Anatolian,,
+cune1239,Cuneiform Luwian,,38.4,36.98,cune1239,,Anatolian,Luvic,
+hier1240,Hieroglyphic Luwian,,38.4,36.98,hier1240,,Anatolian,Luvic,
+clas1249,Classical Armenian,,42,42,clas1249,,Armenian,,
+nucl1235,Eastern Armenian,,40,45,nucl1235,,Armenian,Eastern-Western Armenian,
+prus1238,Old Prussian,,52.39,14.76,prus1238,,Balto-Slavic,Baltic,
+oldl1240,Old Lithuanian,,56,25,oldl1240,,Balto-Slavic,Baltic,Eastern Baltic
+lith1251,Lithuanian,,55.1429,23.9601,lith1251,,Balto-Slavic,Baltic,Eastern Baltic
+latv1249,Latvian,,56.826108,24.309118,latv1249,,Balto-Slavic,Baltic,Eastern Baltic
+oldr1238,Old East Slavic,,60,49,oldr1238,,Balto-Slavic,Slavic,East Slavic
+russ1263,Russian,,59,50,russ1263,,Balto-Slavic,Slavic,East Slavic
+chur1257,Old Church Slavic,,43.7171,22.8442,chur1257,,Balto-Slavic,Slavic,South Slavic
+bulg1262,Bulgarian,,43.3646,25.047,bulg1262,,Balto-Slavic,Slavic,South Slavic
+sout1528,Serbian-Croatian-Bosnian,,44.3238,21.9192,sout1528,,Balto-Slavic,Slavic,South Slavic
+slov1268,Slovenian,,46.2543,14.7766,slov1268,,Balto-Slavic,Slavic,South Slavic
+czec1258,Czech,,49.873398,15.10437,czec1258,,Balto-Slavic,Slavic,West Slavic
+poli1260,Polish,,51.8439,18.6255,poli1260,,Balto-Slavic,Slavic,West Slavic
+uppe1395,Upper Sorbian,,51.2403,14.4098,uppe1395,,Balto-Slavic,Slavic,West Slavic
+tran1282,Transalpine Gaulish,,,,tran1282,,Celtic,,
+wels1247,Welsh,,52,-4,wels1247,,Celtic,Insular Celtic,Brythonic
+oldi1245,Old Irish,,54,-8,oldi1245,,Celtic,Insular Celtic,Goidelic
+iris1253,Irish,,53.2186,-7.61509,iris1253,,Celtic,Insular Celtic,Goidelic
+goth1244,Gothic,,46.9304,29.9786,goth1244,,Germanic,East Germanic,
+oldn1244,Old Norse,,55.53,11.78,oldn1244,,Germanic,North Germanic,West Scandinavian
+swed1254,Swedish,,59.800634,17.389526,swed1254,,Germanic,North Germanic,North Scandinavian
+norw1258,Norwegian,,59.92,10.71,norw1258,,Germanic,North Germanic,West Scandinavian
+afri1274,Afrikaans,,-22,30,afri1274,,Germanic,West Germanic,Franconian
+dutc1256,Dutch,,52,5,dutc1256,,Germanic,West Germanic,Franconian
+luxe1241,Luxembourgish,,49.6839,6.14931,luxe1241,,Germanic,West Germanic,Franconian
+stan1295,German,,48.649,12.4676,stan1295,,Germanic,West Germanic,Franconian
+oldh1241,Old High German,,46.649,12.4676,oldh1241,,Germanic,West Germanic,High German
+midd1343,Middle High German,,47.649,11.4676,midd1343,,Germanic,West Germanic,High German
+swis1247,Swiss German,,47.0516,8.46419,swis1247,,Germanic,West Germanic,High German
+west2361,Western Yiddish,,51.6889,12.2601,west2361,,Germanic,West Germanic,High German
+olds1250,Old Saxon,,52.69,10.99,olds1250,,Germanic,West Germanic,North Sea Germanic
+olde1238,Old English,,54.5,-0.5,olde1238,,Germanic,West Germanic,North Sea Germanic
+midd1317,Middle English,,54,-1.5,midd1317,,Germanic,West Germanic,North Sea Germanic
+stan1293,English,,53,-1,stan1293,,Germanic,West Germanic,North Sea Germanic
+oldf1241,Old Frisian,,53.41,7.97,oldf1241,,Germanic,West Germanic,North Sea Germanic
+east2288,Eastern Frisian,,52.9713,7.73549,east2288,,Germanic,West Germanic,North Sea Germanic
+nort2626,Northern Frisian,,54.6409,8.58489,nort2626,,Germanic,West Germanic,North Sea Germanic
+anci1242,Ancient Greek,,39.8155,21.9129,anci1242,,Greek,East Greek,
+mode1248,Greek,,42.3224,24.8699,mode1248,,Greek,East Greek,Koineic Greek
+sans1269,Sanskrit,,20,77,sans1269,,Indo-Iranian,Indic,
+pali1273,Pāli,,24.5271,82.251,pali1273,,Indo-Iranian,Indic,Bihari
+mait1250,Maithili,,26.3817,86.2211,mait1250,,Indo-Iranian,Indic,Bihari
+doma1258,Domari,,32,35,doma1258,,Indo-Iranian,Indic,Central Zone
+hind1269,Hindi,,25,77,hind1269,,Indo-Iranian,Indic,Central Zone
+vlax1238,Vlax Romani,,46.8191,14.8451,vlax1238,,Indo-Iranian,Indic,Central Zone
+midd1350,Ghāndārī,,34.1481,71.7919,midd1350,,Indo-Iranian,Indic,Central Zone
+sinh1246,Sinhala,,8,81,sinh1246,,Indo-Iranian,Indic,Divehi-Sinhala
+beng1280,Bengali,,24,90,beng1280,,Indo-Iranian,Indic,Eastern Zone
+oriy1255,Oriya,,20.15,85.5,oriy1255,,Indo-Iranian,Indic,Eastern Zone
+nepa1254,Nepali,,27.705,85.33,nepa1254,,Indo-Iranian,Indic,Northern Zone
+dame1241,Dameli,,35.299,71.6806,dame1241,,Indo-Iranian,Indic,Northwestern Zone
+sind1272,Sindhi,,26,69,sind1272,,Indo-Iranian,Indic,Northwestern Zone
+kash1277,Kashmiri,,34.166825,74.330455,kash1277,,Indo-Iranian,Indic,Northwestern Zone
+oldm1244,Old Marathi,,15.43,74.02,oldm1244,,Indo-Iranian,Indic,Southern Zone
+mara1378,Marathi,,17.9344,76.6665,mara1378,,Indo-Iranian,Indic,Southern Zone
+goan1235,Goan Konkani,,15.27,74.21,goan1235,,Indo-Iranian,Indic,Southern Zone
+aves1237,Avestan,,31.541,53.633,aves1237,,Indo-Iranian,Iranian,
+wakh1245,Wakhi,,37.1768,73.9777,wakh1245,,Indo-Iranian,Iranian,
+part1239,Parthian,,34.81,48.51,part1239,,Indo-Iranian,Iranian,Central Iranian
+khwa1238,Khwarezmian,,36.24,58.79,khwa1238,,Indo-Iranian,Iranian,Central Iranian
+sogd1245,Sogdian,,40.29,70.48,sogd1245,,Indo-Iranian,Iranian,Central Iranian
+nort2641,Northern Kurdish,,35.6539,45.8077,nort2641,,Indo-Iranian,Iranian,Central Iranian
+diml1238,Dimli,,38.6147,39.6388,diml1238,,Indo-Iranian,Iranian,Central Iranian
+gila1241,Gilaki,,37.1344,49.8359,gila1241,,Indo-Iranian,Iranian,Central Iranian
+osse1243,Ossetic,,41.7882,43.2674,osse1243,,Indo-Iranian,Iranian,Central Iranian
+balo1260,Balochi,,26,64,balo1260,,Indo-Iranian,Iranian,Central Iranian
+taly1247,Talysh,,38.4552,48.6349,taly1247,,Indo-Iranian,Iranian,Central Iranian
+para1299,Parachi,,36.0432,70.8805,para1299,,Indo-Iranian,Iranian,Ormuri-Parachi
+nucl1276,Pashto,,34,71.33,nucl1276,,Indo-Iranian,Iranian,Pashto
+khot1251,Khotanese,,41.95,83.48,khot1251,,Indo-Iranian,Iranian,Sakha
+oldp1254,Old Persian,,29.56,52.53,oldp1254,,Indo-Iranian,Iranian,Southwestern Iranian
+pahl1241,Middle Persian,,28.6593,55.1586,pahl1241,,Indo-Iranian,Iranian,Southwestern Iranian
+west2369,Farsi,,28.6593,55.1586,west2369,,Indo-Iranian,Iranian,Southwestern Iranian
+taji1245,Tajik,,38.8213,68.5549,taji1245,,Indo-Iranian,Iranian,Southwestern Iranian
+sout2645,Angali (SW Fars),,29.746,52.267,sout2645,,Indo-Iranian,Iranian,Southwestern Iranian
+jude1256,Judeo-Tat,,42.068306,48.264749,jude1256,,Indo-Iranian,Iranian,Southwestern Iranian
+waig1243,Waigali,,,,waig1243,,Indo-Iranian,Nuristani,
+umbr1253,Umbrian,,43.35,12.572,umbr1253,,Italic,Sabellic,
+osca1245,Oscan,,41.486,14.47,osca1245,,Italic,Sabellic,
+lati1261,Classical Latin,,41.9026,12.4502,lati1261,,Italic,Latino-Faliscan,
+oldp1253,Old Occitan,,43.47,3.39,oldp1253,,Italic,Latino-Faliscan,Western Romance
+olds1249,Old Spanish,,39.4414,-1.5,olds1249,,Italic,Latino-Faliscan,Western Romance
+ital1282,Italian,,43.0464,12.6489,ital1282,,Italic,Latino-Faliscan,Western Romance
+vene1258,Venetian,,45.503581,12.214167,vene1258,,Italic,Latino-Faliscan,Western Romance
+stan1290,French,,48,2,stan1290,,Italic,Latino-Faliscan,Western Romance
+occi1249,Occitan,,44.1,4.5,occi1249,,Italic,Latino-Faliscan,Western Romance
+stan1288,Spanish,,40.4414,-1.11788,stan1288,,Italic,Latino-Faliscan,Western Romance
+port1283,Portuguese,,39.91,-8.1,port1283,,Italic,Latino-Faliscan,Western Romance
+roma1327,Romanian,,46.39,24.23,roma1327,,Italic,Latino-Faliscan,Eastern Romance
+camp1261,Campidanese Sardinian,,39.0566,9.03935,camp1261,,Italic,Latino-Faliscan,Southern Romance
+tokh1242,Tocharian A,,42.3,86.34,tokh1242,,Tocharian,,
+tokh1243,Tocharian B,,41.09,80.45,tokh1243,,Tocharian,,
