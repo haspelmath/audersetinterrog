@@ -9,11 +9,11 @@ LateTimeBP: latest attestation in years before present
 AvTimeBP: average time of attestation in years before present (calculated as (Late - Early/2))
 
 RMform: relative marker forms
-NCases: number of case forms (values 0-7)
-NClass: number of gender or inflectional classes (values 0-3)
-NNumber: number of number distinctions (values 0-3)
+NCases: number of case forms (values 0-8, NA)
+NClass: number of gender or inflectional classes (values 0-3, NA)
+NNumber: number of number distinctions (values 0-3, NA)
 
-INT: is the relative marker also used as an interrogative? - values: yes, related, (related), no, NA
+INT: is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA
 
 Origin: what is the source of the marker in PIE? 
 

@@ -2,6 +2,7 @@ appdirs==1.4.3
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.0.2
+-e git+https://github.com/cldf-datasets/audersetinterrog.git@604fda8b6075ed327c92be263f86f3d7db69bc6a#egg=cldfbench_audersetinterrog
 cldfcatalog==1.3.0
 clldutils==3.5.0
 colorlog==4.1.0

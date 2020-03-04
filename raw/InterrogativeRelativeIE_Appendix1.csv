@@ -79,9 +79,9 @@ ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTi
 78,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,hur,0,0,0,yes,KW,no,no,spoken,,,54.6409,8.58489
 79,nort2626,Northern Frisian,Germanic,West Germanic,North Sea Germanic,0,0,0,diar,0,0,0,no,NA,no,no,spoken,,,54.6409,8.58489
 80,anci1242,Ancient Greek,Greek,East Greek,,2515,2315,2415,hos ~ hē ~ ho,4,3,2,no,TO,no,no,written,the comp. is based on the indef.rel. n ,,39.8155,21.9129
-81,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,tís ~ tí,3,2,2,yes,KW,no,no,written,examples of full clauses missing,,41,23
-82,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,ton ~ tēn ~ to,2,3,2,no,TO,no,no,written,examples of full clauses missing,,41,23
-83,medgreek,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,hostis ~ hētis ~ hoti,3,3,2,related,YO+KW,yes,no,written,,,41,23
+81,medi1252,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,tís ~ tí,3,2,2,yes,KW,no,no,written,examples of full clauses missing,,41,23
+82,medi1252,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,ton ~ tēn ~ to,2,3,2,no,TO,no,no,written,examples of full clauses missing,,41,23
+83,medi1252,Medieval Greek,Greek,East Greek,Koineic Greek,1415,515,965,hostis ~ hētis ~ hoti,3,3,2,related,YO+KW,yes,no,written,,,41,23
 84,mode1248,Greek,Greek,East Greek,Koineic Greek,0,0,0,pou,0,0,0,yes,KW,yes,no,both,,,42.3224,24.8699
 85,mode1248,Greek,Greek,East Greek,Koineic Greek,0,0,0,o opoios ~ i opoia ~ to opoio,3,3,2,related,TO+KW,yes,no,written,,,42.3224,24.8699
 86,sans1269,Sanskrit,Indo-Iranian,Indic,,3015,2615,2815,yáḥ ~ yā́ ~ yát,7,3,3,no,YO,no,no,written,,,20,77

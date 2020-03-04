@@ -6,50 +6,18 @@ from cldfbench import CLDFSpec
 from cldfbench import Dataset as BaseDataset
 from clldutils.misc import slug
 
-# TODO: Link to Appendix PDF for description
-
-PARAMETERS = {
-    "NCases": "number of case forms (values 0-8) or NA",
-    "NClass": "number of gender or inflectional classes (values 0-3) or NA",
-    "NNumber": "number of number distinctions (values 0-3) or NA",
-    "INT": "is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA",
-    "Origin": "what is the source of the marker in PIE?",
-    "COMP": "is the relative marker also used as a complementizer? - values: yes, no, NA",
-    "Genre": "is the form used in spoken or written language? - values: spoken, written, both",
-}
-
-CODES = {
-    "NCases": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "NA"],
-    "NClass": ["0", "1", "2", "3", "NA"],
-    "NNumber": ["0", "1", "2", "3", "NA"],
-    "INT": ["yes", "related", "relatedmaybe", "no", "NA"],
-    "Origin": [
-        "KW or L",
-        "KW",
-        "KW+YO",
-        "NA",
-        "YO",
-        "TO",
-        "ONE",
-        "KW+TO",
-        "YO+KW",
-        "TO+KW",
-        "L",
-        "TO+YO",
-    ],
-    "COMP": ["yes", "no", "NA"],
-    "Genre": ["spoken", "written", "both"],
-}
-
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "audersetinterrog"
 
-    def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
+    def cldf_specs(self):
         return CLDFSpec(dir=self.cldf_dir, module="StructureDataset")
 
     def cmd_makecldf(self, args):
+        parameters = self.etc_dir.read_csv("parameters.csv", dicts=True)
+        codes = self.etc_dir.read_csv("codes.csv", dicts=True)
+
         args.writer.cldf.add_component(
             "LanguageTable",
             "Branch",
@@ -73,10 +41,8 @@ class Dataset(BaseDataset):
         )
 
         for lang in lines_by_id.values():
-            if (
-                not lang["Glottocode"]
-                in map(operator.itemgetter("ID"), args.writer.objects["LanguageTable"])
-                and lang["Glottocode"] != "medgreek"  # TODO: Ask Sandra medgreek
+            if not lang["Glottocode"] in map(
+                operator.itemgetter("ID"), args.writer.objects["LanguageTable"]
             ):
                 args.writer.objects["LanguageTable"].append(
                     dict(
@@ -94,42 +60,35 @@ class Dataset(BaseDataset):
                     )
                 )
 
-        for parameter, description in PARAMETERS.items():
+        for parameter in parameters:
             args.writer.objects["ParameterTable"].append(
-                dict(ID=slug(parameter), Name=parameter, Description=description)
+                dict(
+                    ID=parameter["ID"], Name=parameter["Name"], Description=parameter["Description"]
+                )
             )
 
-        for code, values in CODES.items():
-            for value in values:
-                args.writer.objects["CodeTable"].append(
-                    dict(
-                        ID="{0}-{1}".format(slug(code), slug(value)),
-                        Parameter_ID=slug(code),
-                        Name=value,
-                    )
-                )
+        for code in codes:
+            args.writer.objects["CodeTable"].append(
+                dict(ID=code["ID"], Parameter_ID=code["Parameter_ID"], Name=code["Name"])
+            )
 
         for example in lines_by_id.values():
-            if example["Glottocode"] != "medgreek":  # TODO: Ask Sandra medgreek
-                args.writer.objects["ExampleTable"].append(
-                    dict(
-                        ID=example["ID"],
-                        Language_ID=example["Glottocode"],
-                        Primary_Text=example["RMform"],
-                    )
+            args.writer.objects["ExampleTable"].append(
+                dict(
+                    ID=example["ID"],
+                    Language_ID=example["Glottocode"],
+                    Primary_Text=example["RMform"],
                 )
+            )
 
         for value in lines_by_id.values():
-            for parameter in PARAMETERS.keys():
-                if value["Glottocode"] != "medgreek":
-                    args.writer.objects["ValueTable"].append(
-                        dict(
-                            ID="{0}-{1}-{2}".format(
-                                value["Glottocode"], slug(parameter), value["ID"]
-                            ),
-                            Language_ID=value["Glottocode"],
-                            Parameter_ID=slug(parameter),
-                            Value=value[parameter],
-                            Code_ID="{0}-{1}".format(slug(parameter), slug(value[parameter])),
-                        )
+            for parameter in parameters:
+                args.writer.objects["ValueTable"].append(
+                    dict(
+                        ID="{0}-{1}-{2}".format(value["Glottocode"], parameter["ID"], value["ID"]),
+                        Language_ID=value["Glottocode"],
+                        Parameter_ID=parameter["ID"],
+                        Value=value[parameter["Name"]],
+                        Code_ID="{0}-{1}".format(parameter["ID"], slug(value[parameter["Name"]])),
                     )
+                )
