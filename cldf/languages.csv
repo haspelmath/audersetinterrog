@@ -19,7 +19,7 @@ slov1268,Slovenian,,46.2543,14.7766,slov1268,,Balto-Slavic,Slavic,South Slavic,0
 czec1258,Czech,,49.873398,15.10437,czec1258,,Balto-Slavic,Slavic,West Slavic,0,0,0
 poli1260,Polish,,51.8439,18.6255,poli1260,,Balto-Slavic,Slavic,West Slavic,0,0,0
 uppe1395,Upper Sorbian,,51.2403,14.4098,uppe1395,,Balto-Slavic,Slavic,West Slavic,0,0,0
-tran1282,Transalpine Gaulish,,,,tran1282,,Celtic,,,2315,1515,1915
+tran1282,Transalpine Gaulish,,2.52,,tran1282,,Celtic,,,2315,1515,1915
 wels1247,Welsh,,52,-4,wels1247,,Celtic,Insular Celtic,Brythonic,0,0,0
 oldi1245,Old Irish,,54,-8,oldi1245,,Celtic,Insular Celtic,Goidelic,1515,1015,1265
 iris1253,Irish,,53.2186,-7.61509,iris1253,,Celtic,Insular Celtic,Goidelic,0,0,0
@@ -82,7 +82,7 @@ west2369,Farsi,,28.6593,55.1586,west2369,,Indo-Iranian,Iranian,Southwestern Iran
 taji1245,Tajik,,38.8213,68.5549,taji1245,,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0
 sout2645,Angali (SW Fars),,29.746,52.267,sout2645,,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0
 jude1256,Judeo-Tat,,42.068306,48.264749,jude1256,,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0
-waig1243,Waigali,,,,waig1243,,Indo-Iranian,Nuristani,,0,0,0
+waig1243,Waigali,,35.325,71.118,waig1243,,Indo-Iranian,Nuristani,,0,0,0
 umbr1253,Umbrian,,43.35,12.572,umbr1253,,Italic,Sabellic,,2715,1915,2315
 osca1245,Oscan,,41.486,14.47,osca1245,,Italic,Sabellic,,2515,1915,2215
 lati1261,Classical Latin,,41.9026,12.4502,lati1261,,Italic,Latino-Faliscan,,2090,1715,1903
