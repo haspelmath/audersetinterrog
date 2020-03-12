@@ -34,7 +34,7 @@ ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTi
 33,poli1260,Polish,Balto-Slavic,Slavic,West Slavic,0,0,0,co,0,0,0,yes,KW,no,no,spoken,,,51.8439,18.6255
 34,uppe1395,Upper Sorbian,Balto-Slavic,Slavic,West Slavic,0,0,0,štož ~ štóž,4,2,2,yes,KW,no,no,both,,,51.2403,14.4098
 35,uppe1395,Upper Sorbian,Balto-Slavic,Slavic,West Slavic,0,0,0,kotryž,4,3,2,yes,KW,no,no,both,,,51.2403,14.4098
-36,tran1282,Transalpine Gaulish,Celtic,,,2315,1515,1915,io,0,0,0,no,YO,NA,NA,written,interrogatives are not attested but they never go back to yo in IE,,,
+36,tran1282,Transalpine Gaulish,Celtic,,,2315,1515,1915,io,0,0,0,no,YO,NA,NA,written,interrogatives are not attested but they never go back to yo in IE,47.21,2.52,
 37,wels1247,Welsh,Celtic,Insular Celtic,Brythonic,0,0,0,a ~ y,2,0,0,no,NA,no,no,spoken,special verb inflection,,52,-4
 38,wels1247,Welsh,Celtic,Insular Celtic,Brythonic,0,0,0,lle ~ pryd ~ pam,0,0,0,yes,NA,no,no,spoken,"expressions of time, space, reason",,52,-4
 39,oldi1245,Old Irish,Celtic,Insular Celtic,Goidelic,1515,1015,1265,-,0,0,0,no,NA,NA,no,written,,,54,-8
@@ -124,7 +124,7 @@ ID,Glottocode,Language,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTi
 123,taji1245,Tajik,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ki,0,0,0,yes,KW,yes,no,spoken,,,38.8213,68.5549
 124,sout2645,Angali (SW Fars),Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ke,0,0,0,yes,KW,yes,no,spoken,only the human form overlaps in one variant,,29.746,52.267
 125,jude1256,Judeo-Tat,Indo-Iranian,Iranian,Southwestern Iranian,0,0,0,ho ,0,0,0,no,NA,yes,no,written,,,42.068306,48.264749
-126,waig1243,Waigali,Indo-Iranian,Nuristani,,0,0,0,sta,0,0,0,no,NA,no,no,both,appears with all postnominal N modifiers,,,
+126,waig1243,Waigali,Indo-Iranian,Nuristani,,0,0,0,sta,0,0,0,no,NA,no,no,both,appears with all postnominal N modifiers,,35.325,71.118
 127,umbr1253,Umbrian,Italic,Sabellic,,2715,1915,2315,poe ~ NA ~ NA,5,3,2,related,KW,NA,no,written,,,43.35,12.572
 128,osca1245,Oscan,Italic,Sabellic,,2515,1915,2215,pui ~ púd ~ paí,5,3,2,related,KW,NA,no,written,,,41.486,14.47
 129,lati1261,Classical Latin,Italic,Latino-Faliscan,,2090,1715,1903,quī ~ quae ~ quod,5,3,2,related,KW,no,no,written,,,41.9026,12.4502
