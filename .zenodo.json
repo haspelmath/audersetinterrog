@@ -1,0 +1,26 @@
+{
+    "title": "CLDF dataset derived from Auderset's \"Interrogatives as relativization markers in Indo-European\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Sandra Auderset"
+        }    
+    ],
+    "contributors": [
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        }    
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p> ..."
+}

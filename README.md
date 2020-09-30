@@ -1,4 +1,4 @@
-# Interrogatives as relativization markers in Indo-European
+# CLDF dataset derived from Auderset's "Interrogatives as relativization markers in Indo-European" from 2020
 
 
 This study uses definitions tailored to the question at hand, to the specific characteristics of Indo-
@@ -13,3 +13,5 @@ grammars and grammar sketches and thus necessarily limited to the descriptions a
 provided there. Focusing on a subset of RC constructions allows for a broader sample.
 
 This dataset is licensed under a CC-BY-4.0 license
+
+Available online at https://github.com/cldf-datasets/audersetinterrog/
