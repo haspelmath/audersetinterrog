@@ -1,4 +1,4 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Branch,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTimeBP
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family,Subbranch,Subsubbranch,EarlyTimeBP,LateTimeBP,AvTimeBP
 gheg1238,Gheg Albanian,,42.317,21.3837,gheg1238,,Albanian,Gheg,,0,0,0
 tosk1239,Tosk Albanian,,41,20,tosk1239,,Albanian,Tosk,,0,0,0
 hitt1242,Hittite,,39.31,33.96,hitt1242,,Anatolian,,,3715,3215,3465
