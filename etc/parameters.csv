@@ -1,5 +1,5 @@
 ID,Name,Description
-rmform,RMform,realisation of the relative marker
+rmform,Relative marker forms,the shapes of the all the relative markers in a language (separated by slash (/) if there are several)
 ncases,NCases,number of case forms (values 0-8) or NA
 nclass,NClass,number of gender or inflectional classes (values 0-3) or NA
 nnumber,NNumber,number of number distinctions (values 0-3) or NA
