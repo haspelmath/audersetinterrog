@@ -62,13 +62,13 @@ class Dataset(BaseDataset):
                     comment = row['Notes']
                 else:
                     code_id = '{}-{}'.format(
-                        parameter['ID'], slug(row[parameter['Name']]))
+                        parameter['ID'], slug(row[parameter['Sheet_Column']]))
                     comment = None
                 cvalue = {
                     'ID': '{}-{}'.format(row['ID'], parameter['ID']),
                     'Construction_ID': row['ID'],
                     'Parameter_ID': parameter['ID'],
-                    'Value': row[parameter['Name']],
+                    'Value': row[parameter['Sheet_Column']],
                     'Code_ID': code_id,
                     'Comment': comment,
                 }
