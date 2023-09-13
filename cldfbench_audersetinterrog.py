@@ -57,7 +57,10 @@ class Dataset(BaseDataset):
         cvalues = []
         for row in raw_data:
             for parameter in parameters:
-                if parameter['ID'] == 'rmform':
+                if parameter['ID'] == 'rmforms':
+                    # this one is generated later
+                    continue
+                elif parameter['ID'] == 'rmform':
                     code_id = None
                     comment = row['Notes']
                 else:
@@ -74,11 +77,6 @@ class Dataset(BaseDataset):
                 }
                 cvalues.append(cvalue)
 
-        parameters.append({
-            'ID': 'rmforms',
-            'Name': 'RMForms',
-            'Description': 'collection of relative markers used in a language',
-        })
         forms_by_language = collections.OrderedDict()
         for row in raw_data:
             glottocode = row['Glottocode']
