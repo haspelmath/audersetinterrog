@@ -1,9 +1,10 @@
-ID,Name,Description
-rmform,Relative marker forms,the shapes of the all the relative markers in a language (separated by slash (/) if there are several)
-ncases,NCases,number of case forms (values 0-8) or NA
-nclass,NClass,number of gender or inflectional classes (values 0-3) or NA
-nnumber,NNumber,number of number distinctions (values 0-3) or NA
-int,INT,"is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA"
-origin,Origin,what is the source of the marker in PIE?
-comp,COMP,"is the relative marker also used as a complementizer? - values: yes, no, NA"
-genre,Genre,"is the form used in spoken or written language? - values: spoken, written, both"
+ID,Sheet_Column,Name,Description
+rmform,RMform,Relative marker form,the shape of the relative marker (when there are several forms for different genders, they are separated by a tilde (~)
+ncases,NCases,Number of cases,number of case distinctions
+nclass,NClass,Number of genders or classes,number of gender classes or inflectional classes
+nnumber,NNumber,Number of numbers,Is the relative marker also used as an interrogative (or related to an interrogative)?
+int,INT,INT,"is the relative marker also used as an interrogative? - values: yes, related, relatedmaybe, no, NA"
+origin,Origin,Proto-Indo-European origin,source of the marker in Proto-Indo-European (*kw-, *to-, *yo-, combinations of these, ‘one’, *l-)
+comp,COMP,Use as complementizer,Is the relative marker also used as a complementizer?
+genre,Genre,Spoken or written use,Is the form used in spoken or written language?
+rmforms,RMForms,Relative marker forms,the shapes of the all the relative markers in a language (separated by slash (/) if there are several)
